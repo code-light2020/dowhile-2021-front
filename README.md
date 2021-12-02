@@ -1,12 +1,3 @@
-<div align="center">
-  <img src=".github/logo.svg" alt="DoWhile 2021 logo">
-</div>
-
-## Do While 2021
-
-[![Author](https://img.shields.io/badge/author-josepholiveira-835AFD?style=flat-square)](https://github.com/josepholiveira)
-[![Languages](https://img.shields.io/github/languages/count/josepholiveira/dowhile-2021?color=%23835AFD&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/josepholiveira/dowhile-2021?color=835AFD&style=flat-square)](https://github.com/josepholiveira/dowhile-2021/stargazers)
 
 <h4 align="center">
   DoWhile 2021 is a platform built during the NLW Heat event by @Rocketseat in October 2021. It lets you gather hype messages for the DoWhile event that will happen during days 01 and 02 of december 2021.
